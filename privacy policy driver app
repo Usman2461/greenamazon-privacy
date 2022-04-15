@@ -10,7 +10,16 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 Information Collection and Use
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information,
-including but not limited to email, location, phone number, name, address. The information that we request will be retained by us and used as described in this privacy policy.
+including but not limited to:- 
+1-email, 
+2-location (live current location and background location while the app is closed).
+3- We will use you location in background (background location) for tracking orders.
+4-phone number, 
+5-name, 
+6-address. 
+
+
+The information that we request will be retained by us and used as described in this privacy policy.
 
 The app does use third-party services that may collect information used to identify you.
 
@@ -19,6 +28,9 @@ Link to the privacy policy of third-party service providers used by the app
 Google Play Services
 Google Analytics for Firebase
 Log Data
+
+link to watch video about the usage of your location is below:-
+https://youtu.be/wbtkeYckXWg
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
